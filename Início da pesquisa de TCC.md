@@ -4,4 +4,6 @@ ___
  > [[Primeira pesquisa de artigos| Primeira query de pesquisa]]
 ____
 ## Páginas para cada referência:
+
  - [[Métodos Formais]] 
+ - [[TLA+]]
