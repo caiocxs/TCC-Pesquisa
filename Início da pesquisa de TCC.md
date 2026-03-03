@@ -2,8 +2,10 @@ ___
  > [[Keywords e Relações.canvas|Palavras-chaves]] utilizadas até agora 
  
 ### Lista de pesquisas:
--  [[Primeira pesquisa de artigos |Primeira query]]
--  [[Segunda pesquisa de artigos |Segunda query]]
+- [[Primeira pesquisa de artigos |Primeira query]]
+- [[Segunda pesquisa de artigos |Segunda query]]
+- [[Terceira pesquisa de artigos |Terceira query]]
+
 ____
 ## Páginas para cada referência:
 
