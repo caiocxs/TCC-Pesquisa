@@ -13,5 +13,5 @@ ___
 - Utilizar LLMs para traduzir texto para código de regras do design;
 
 - Analise exemplo: Calculadora; sistema open source; GREP linux
-- TLA+ - assincrono; COQ - sincrono;
+- TLA+ - assíncrono; COQ - síncrono;
 - Perguntar para o Heredia de analise de pior caso em algum sistema do linux (assincrono)
