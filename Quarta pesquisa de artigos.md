@@ -27,8 +27,12 @@ Gerador pegar pegaria a gramática da linguagem e faz linter ou gerador estátic
 3. [Kajal: Extracting Grammar of a Source Code Using Large Language Models](https://arxiv.org/abs/2412.08842)
 4. [Fact-Aligned and Template-Constrained Static Analyzer Rule Enhancement with LLMs](https://mingwen-cs.github.io/paper/ASE-2025-Camera-Ready.pdf)
 5. [KNighter: Transforming Static Analysis with LLM-Synthesized Checkers](https://dl.acm.org/doi/abs/10.1145/3731569.3764827)
-
-https://ieeexplore.ieee.org/abstract/document/10795085
-https://ieeexplore.ieee.org/abstract/document/11173453
-https://arxiv.org/abs/1602.07285
-https://link.springer.com/chapter/10.1007/978-3-642-60085-2_5
+6. [Focused: An Approach to Framework-Oriented Cross-Language Link Specification and Detection](https://ieeexplore.ieee.org/abstract/document/10795085)
+7. [Automatic Generation of Formula Simplifiers based on Conditional Rewrite Rules](https://arxiv.org/abs/1602.07285)
+8. [Link-time Optimization of Multi-Language Programs](https://link.springer.com/chapter/10.1007/978-3-642-60085-2_5)
+9. [Fuzzing-based grammar inference for context-free languages](https://epub.jku.at/urn/urn:nbn:at:at-ubl:1-94065)
+10. [Finding bugs in program generators by dynamic analysis of syntactic language constraints](https://dl.acm.org/doi/abs/10.1145/2584469.2584474)
+11. 
+12. 
+13. 
+14. 

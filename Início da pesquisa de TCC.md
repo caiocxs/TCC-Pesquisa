@@ -5,6 +5,7 @@ ___
 - [[Primeira pesquisa de artigos |Primeira query]]
 - [[Segunda pesquisa de artigos |Segunda query]]
 - [[Terceira pesquisa de artigos |Terceira query]]
+- [[Quarta pesquisa de artigos |Quarta query]]
 
 ____
 ## Páginas para cada referência:
@@ -19,3 +20,4 @@ ____
 - Uma IA que a partir das regras e design do sistema identifica falhas e melhoras;
 - Uma prova/projeto de IA que a partir de regras e design do sistema identifica falhas e melhoras;
 - Threads e nível baixo;
+- Linker genérico com LLM para definição de regras de cada linguagem;
