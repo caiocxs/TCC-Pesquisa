@@ -18,6 +18,7 @@ Gerador pegar pegaria a gramática da linguagem e faz linter ou gerador estátic
 
 	("linker" OR "static analysis" OR "static analyser" OR "optimization" OR "code") AND ("language" OR "grammar" OR "AST"  OR "formal grammar") AND ("rule generation" OR "rule synthesis" OR "checker synthesis OR "symbolic rule" OR "rules" OR "symbolic" OR "LLM")
 
+
 **Artigos**:
 1. [Generation, Migration and Optimization of Cross-Language Static-Analysis Rules Based on Large Language Models](https://ieeexplore.ieee.org/abstract/document/11173453)
 2. [Concurrency Bug Detection via Static Analysis and Large Language Models](https://www.mdpi.com/1999-5903/17/12/578)
